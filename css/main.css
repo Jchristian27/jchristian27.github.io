@@ -9,6 +9,9 @@
 a {
   color: #f00;
 }
+h2 {
+  font-size: 30px;
+}
 
 /* HEADER STYLES */
 .header-nav {
